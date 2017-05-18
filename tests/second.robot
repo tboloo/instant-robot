@@ -3,7 +3,7 @@ Library           BuiltIn
 Library           OperatingSystem
 
 *** Variables ***
-${TEXT}     First suite!
+${TEXT}     Second suite!
 
 *** Test Cases ***
 [TC-001] - Basic test

@@ -1,5 +1,5 @@
 FROM python:3.6-alpine
-MAINTAINER Bolek Tekielski
+MAINTAINER Bolesław Tekielski <bolek@zeepeetek.pl>
 
 VOLUME /tests
 VOLUME /reports
